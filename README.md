@@ -1,6 +1,7 @@
 Liquid Prompt — a useful adaptive prompt for Bash & zsh
 =======================================================
 
+Hello!
 Liquid Prompt gives you a nicely displayed prompt with useful information
 when you need it. It shows you what you need when you need it.
 You will notice what changes *when* it changes, saving time and frustration.
